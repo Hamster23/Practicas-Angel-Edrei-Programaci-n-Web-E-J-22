@@ -1,0 +1,27 @@
+body{
+
+background-color: aqua;
+color: blue;
+}
+
+h1{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blue-box{
+    height: 100px;
+    width: 100px;
+    background: blue;
+}
+
+.red-box{
+    height: 100px;
+    width: 100px;
+    background: red;
+}
+
+img{
+    float: left;
+    margin-left: 50px;
+}
